@@ -4,7 +4,7 @@ A Claude-inspired theme for T3 Code.
 
 ![T3 Clawd](media/poster.png)
 
-One theme file. No fork, no source changes. Built entirely on T3 Code's theme system, using 18k of its 20k-character CSS limit.
+One theme file. No fork, no source changes. Built entirely on T3 Code's theme system, using 16k of its 20k-character CSS limit.
 
 ## What changes
 
